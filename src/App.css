@@ -14,7 +14,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url('https://images.hdqwalls.com/wallpapers/polygon-mountains-minimalist-r3.jpg');
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
